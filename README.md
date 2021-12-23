@@ -11,7 +11,7 @@ I'm Maria Eduarda Furtado 🌹, but you can just call me Duda. 🤟
 
 I have been raised my 18 years old 🔞 of life in Salvador, Brazil 🇧🇷 and now after learned a lot of english and understand a little more about the world 🌍 throught my cell phone screen, I noticed that I need to know in person other cultures 🎎 and pepople around the world. ✈️⛩️🗽🗼🏝️🏯
 
-I'm addicted to learn new things and be the better I can at them. So in november of 2021 I decided to start the course of full stack develoment at Cubos Academy. I besides this I have been learning all about tecnology 🤖, humans relationships 🧠 and bussiness 👩🏽💸. 
+I'm addicted to learn new things and be the better I can at them. So in november of 2021 I decided to start the course of full stack develoment at Cubos Academy. Besides this I have been learning all about tecnology 🤖, humans relationships 🧠 and bussiness 👩🏽💸. 
 
 What do you thing about we go throught some informations about me? 😊
 
