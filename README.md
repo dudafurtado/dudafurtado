@@ -49,6 +49,6 @@ These are the ones I am curiosos about:
 
 <div align="center">
   <a href="https://github.com/dudafurtado">
-  <img width="460" src="https://github-readme-stats.vercel.app/api?username=dudafurtado&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudafurtado&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=dudafurtado&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudafurtado&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true"/>
 </div>
