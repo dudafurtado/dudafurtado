@@ -1,4 +1,4 @@
-<br> 
+
 
 <h1> <img src="https://www.publicdomainpictures.net/pictures/100000/velka/snake-silhouette.jpg" width="36px">  Hello, let's take a look at my professional life!  <img src="https://www.publicdomainpictures.net/pictures/100000/velka/snake-silhouette.jpg" width="36px"> </h1>
 
