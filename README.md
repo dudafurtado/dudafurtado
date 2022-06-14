@@ -48,7 +48,7 @@ These are the ones I am curiosos about:
   
 <br>
 
-<h2> <img src="http://i2.wp.com/elephant.neckboltgames.com/wp-content/uploads/2015/10/snoke2d.gif" width="47px"> <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </h2>
+<h2> <img src='https://user-images.githubusercontent.com/87102406/173659424-b0c24d6f-4ae1-497d-a8f0-c62d8647c352.gif' > <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </h2>
 
 <div align="center">
   <a href="https://github.com/dudafurtado">
