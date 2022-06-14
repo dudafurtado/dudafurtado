@@ -38,7 +38,7 @@ These are the ones I am curiosos about:
 
 <h2>😜About me</h2> 
 
-<img align='right' src='https://pa1.narvii.com/6479/d370e5f18b1244a18345f7f53c8fae77668c3e46_hq.gif' width='380px'>
+<img align='right' src='https://user-images.githubusercontent.com/87102406/173639875-4e42c12b-b365-468b-b8d4-7439d9a34d59.gif'>
 
 -   I love music 🎵🎧, languages and kpop 🇰🇷
 -   I love 🐘 and 🐨 cause they are cute
