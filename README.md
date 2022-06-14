@@ -7,6 +7,8 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/87102406/173637477-edb4e1e5-dd99-46e1-8927-093b4bc9e9ca.gif'>
 
+<br>
+
 I'm Maria Eduarda Furtado 🌹, but you can just call me Duda. 🤟
 
 I have been raised my 18 years old 🔞 of life in Salvador, Brazil 🇧🇷 and now after learned a lot of english and understand a little more about the world 🌍 through my cell phone screen, I noticed that I need to know in person other cultures 🎎 and pepople around the world. ✈️⛩️🗽🗼🏝️🏯
@@ -15,6 +17,7 @@ I'm addicted to learn new things and be the better I can at them. So in november
 
 What do you thing about we going through some informations about me? 😊
 
+<br>
 <br>
 
 <h2>👩🏽‍🏫Abilities</h2>
