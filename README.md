@@ -24,7 +24,8 @@ What do you thing about we going through some informations about me? 😊
 
 -   Front-end 
 -   Back-end 
--   Data Science 
+
+<br>
   
 These are the tecnologys that I am currently styding ate the moment:
 
