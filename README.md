@@ -44,13 +44,14 @@ These are the ones I am curiosos about:
 
 <h2>😜About me</h2> 
 
-<img align='right' src='https://data.whicdn.com/images/304606753/original.gif'>
-
 -   I have been playing soccer ⚽ since I was just a kid
 -   I would love to know how to drawn 🎨
 -   In the future I want to study physicology 🧠 just for fun
 -   My dream place to go is Australia 🇦🇺
 -   Kpop was the reason I decided to learn english 🇺🇲 and it is now the reason that I will learn korean 🇰🇷
+
+<img align='center' src='https://data.whicdn.com/images/304606753/original.gif'>
+
 -   Be able to communicate in 6 languages is my ultimate goal 
 -   Listening and dance to 🎵🎧 is the reason why I love to work at home
 -   I love 🐘 and 🐨 cause they are cute
