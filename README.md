@@ -1,51 +1,58 @@
 
 
-<h1> <img src="https://www.publicdomainpictures.net/pictures/100000/velka/snake-silhouette.jpg" width="36px">  Hello, let's take a look at my professional life!  <img src="https://www.publicdomainpictures.net/pictures/100000/velka/snake-silhouette.jpg" width="36px"> </h1>
+<h1> <img src="https://www.publicdomainpictures.net/pictures/100000/velka/snake-silhouette.jpg" width="36px">  Hey, there! Make yourself at home  <img src="https://www.publicdomainpictures.net/pictures/100000/velka/snake-silhouette.jpg" width="36px"> </h1>
 
-<a href="http://api.whatsapp.com/send?1=pt_BR&phone=5571999516225" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  <a href="https://t.me/dudafurtado" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://mail.google.com/mail/u/duda123hotmail@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://web.facebook.com/Duda.Furtado.365" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mariaeduardafurtado/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> <a href="" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a> 
+<a href="http://api.whatsapp.com/send?1=pt_BR&phone=5571999516225" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  <a href="https://t.me/dudafurtado" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://web.facebook.com/Duda.Furtado.365" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mariaeduardafurtado/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
-<img align='right' src='https://user-images.githubusercontent.com/87102406/173637477-edb4e1e5-dd99-46e1-8927-093b4bc9e9ca.gif'>
+<img align='right' src='https://64.media.tumblr.com/44ad059f145bd9d29c3f79d3ebde8282/05293510b62f17ae-dc/s400x600/b3978c2566829085f075e0e7afc1b1cc8952f665.gifv'>
 
 <br>
 
-I'm Maria Eduarda Furtado 🌹, but you can just call me Duda. 🤟
+I’m a young, curious, funny and brave girl but you can just use the word Duda to call me. 🤟🌹
 
-I have been raised my 18 years old 🔞 of life in Salvador, Brazil 🇧🇷 and now after learned a lot of english and understand a little more about the world 🌍 through my cell phone screen, I noticed that I need to know in person other cultures 🎎 and pepople around the world. ✈️⛩️🗽🗼🏝️🏯
+I am 19 years old and I was born in a city called Salvador of a big country known for the name Brazil 🇧🇷, but do not expect to find me forever here. The english and other languages that I am constantly falling in love have been make me understand more about the world 🌍 through the black mirror of  my phone 📱. All the types of food, party, people  🏝️ that a can meet and experience 🗽 feel thrilling in my stomach 🏯. There are so much that my 6 senses can be pushed to that stay at the same place forever just do not makes sense. ⛩️🗼
 
-I'm addicted to learn new things and be the better I can at them. So in november of 2021 I decided to start the course of full stack develoment at Cubos Academy. Besides this I have been learning all about tecnology 🤖, humans relationships 🧠 and bussiness 👩🏽💸. 
-
-What do you thing about we going through some informations about me? 😊
+On this social media you can see more about how my brain is developing applications with code. 
+2020 was the year that make me know kpop, code 🤖 and made be ambitious 💸 about the future that I am step by step creating. Some of the computers languages that a have interest or some skill at will be list along of this introduction so nice to meet you. I hope that you have a quality time at this profile.
 
 <br>
 <br>
 
 <h2>👩🏽‍🏫Abilities</h2>
-
--   Front-end 
+ 
 -   Back-end 
+-   Front-end
 
 <br>
   
 These are the tecnologys that I am currently styding ate the moment:
 
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+
+<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />  <img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />  
 
 These are the ones I am curiosos about:
 
-<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 
 <br>
 
 <h2>😜About me</h2> 
 
-<img align='right' src='https://user-images.githubusercontent.com/87102406/173639875-4e42c12b-b365-468b-b8d4-7439d9a34d59.gif'>
+<img align='right' src='https://data.whicdn.com/images/304606753/original.gif'>
 
--   I love music 🎵🎧, languages and kpop 🇰🇷
--   I love 🐘 and 🐨 cause they are cute
--   I love to eat 🍣 and 🍟
 -   I have been playing soccer ⚽ since I was just a kid
--   I would love to know how to paint 🎨
+-   I would love to know how to drawn 🎨
+-   In the future I want to study physicology 🧠 just for fun
+-   My dream place to go is Australia 🇦🇺
+-   Kpop was the reason I decided to learn english 🇺🇲 and it is now the reason that I will learn korean 🇰🇷
+-   Be able to communicate in 6 languages is my ultimate goal 
+-   Listening and dance to 🎵🎧 is the reason why I love to work at home
+-   I love 🐘 and 🐨 cause they are cute
+-   🍟 was my first love, 🍣 my second and 🍝 the thrid one
   
 <br>
 
@@ -53,6 +60,6 @@ These are the ones I am curiosos about:
 
 <div align="center">
   <a href="https://github.com/dudafurtado">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=dudafurtado&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudafurtado&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudafurtado&layout=compact&langs_count=5&theme=vision-friendly-dark&hide_border=true"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=dudafurtado&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
