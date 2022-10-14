@@ -50,7 +50,7 @@ These are the ones I am curiosos about:
 -   My dream place to go is Australia 🇦🇺
 -   Kpop was the reason I decided to learn english 🇺🇲 and it is now the reason that I will learn korean 🇰🇷
 
-<img align='center' src='https://data.whicdn.com/images/304606753/original.gif'>
+<img align='center' margin-left='15px' src='https://data.whicdn.com/images/304606753/original.gif'>
 
 -   Be able to communicate in 6 languages is my ultimate goal 
 -   Listening and dance to 🎵🎧 is the reason why I love to work at home
