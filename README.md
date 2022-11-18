@@ -65,12 +65,13 @@ These are the ones I am curiosos about:
 
 <h2>😜About me</h2> 
 
-<img align="right" margin-left="30px" src='https://data.whicdn.com/images/304606753/original.gif'>
-
 -   I have been playing soccer ⚽ since I was just a kid
 -   I would love to know how to drawn 🎨
 -   In the future I want to study physicology 🧠 just for fun
 -   My dream place to go is Australia 🇦🇺
+
+<img align="center" margin-left="30px" src='https://data.whicdn.com/images/304606753/original.gif'>
+
 -   Kpop was the reason I decided to learn english 🇺🇲 and it is now the reason that I will learn korean 🇰🇷
 -   Be able to communicate in 6 languages is my ultimate goal 
 -   Listening and dance to 🎵🎧 is the reason why I love to work at home
@@ -86,6 +87,6 @@ These are the ones I am curiosos about:
 
 <div align="center">
   <a href="https://github.com/dudafurtado">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudafurtado&layout=compact&langs_count=5&theme=vision-friendly-dark&hide_border=true"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=dudafurtado&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudafurtado&layout=compact&langs_count=5&theme=vision-friendly-dark&hide_border=true"/>
+  <img width="350" src="https://github-readme-stats.vercel.app/api?username=dudafurtado&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
