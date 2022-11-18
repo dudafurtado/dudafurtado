@@ -93,3 +93,15 @@ These are the ones I am curiosos about:
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudafurtado&layout=compact&langs_count=5&theme=vision-friendly-dark&hide_border=true"/>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=dudafurtado&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
+  
+  <br>
+  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dudafurtado&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
+</div>
+  
+  <br>
+  
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=dudafurtado&theme=merko&hide_border=true"/>
+</div>
