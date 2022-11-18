@@ -25,8 +25,11 @@
 </a>
 
 <br>
+<br>
 
 <img align='right' src='https://64.media.tumblr.com/44ad059f145bd9d29c3f79d3ebde8282/05293510b62f17ae-dc/s400x600/b3978c2566829085f075e0e7afc1b1cc8952f665.gifv'>
+
+<br>
 
 <p align="left"> 
 I’m a young, curious, funny and brave girl but you can just use the word Duda to call me. 🤟🌹
@@ -87,6 +90,6 @@ These are the ones I am curiosos about:
 
 <div align="center">
   <a href="https://github.com/dudafurtado">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudafurtado&layout=compact&langs_count=5&theme=vision-friendly-dark&hide_border=true"/>
-  <img width="350" src="https://github-readme-stats.vercel.app/api?username=dudafurtado&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudafurtado&layout=compact&langs_count=5&theme=vision-friendly-dark&hide_border=true"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=dudafurtado&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
