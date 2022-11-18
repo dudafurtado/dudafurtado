@@ -1,6 +1,12 @@
 
 
-<h1> <img src="" width="36px">  Hey, there! Make yourself at home  <img src="" width="36px"> </h1>
+<h1 display="flex" align-items="center"> 
+  <img src="https://i.pinimg.com/originals/44/f3/4f/44f34f5b06c1fb32a4c3925991854640.gif" width="65px" height="50px">  
+    Hey, there! Make yourself at home
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/cbc69a17085171.562b572169e35.gif" width="75px" height="50px"> 
+</h1>
+
+<br>
 
 <a href="https://www.linkedin.com/in/mariaeduardafurtado/" target="_blank">
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
