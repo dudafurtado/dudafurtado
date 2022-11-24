@@ -74,18 +74,28 @@ These are the ones I am curiosos about:
 
 <h2>😜About me</h2> 
 
--   I have been playing soccer ⚽ since I was just a kid
--   I would love to know how to drawn 🎨
--   In the future I want to study physicology 🧠 just for fun
--   My dream place to go is Australia 🇦🇺
+<ul>
+  <li>I have been playing soccer ⚽ since I was just a kid</li>
+  <li>I would love to know how to drawn 🎨</li>
+  <li>In the future I want to study physicology 🧠 just for fun</li>
+  <li>My dream place to go is Australia 🇦🇺</li>
+</ul>
 
-<img align="center" margin-left="30px" src='https://data.whicdn.com/images/304606753/original.gif'>
+<br>
 
--   Kpop was the reason I decided to learn english 🇺🇲 and it is now the reason that I will learn korean 🇰🇷
--   Be able to communicate in 6 languages is my ultimate goal 
--   Listening and dance to 🎵🎧 is the reason why I love to work at home
--   I love 🐘 and 🐨 cause they are cute
--   🍟 was my first love, 🍣 my second and 🍝 the thrid one
+<div align="center">
+  <img src='https://i.pinimg.com/originals/f8/b0/23/f8b02356a5c990ab8501fecabd21cab9.gif'>
+</div>
+
+<br>
+
+<ul>
+  <li>Kpop was the reason I decided to learn english 🇺🇲 and it is now the reason that I will learn korean 🇰🇷</li>
+  <li>Be able to communicate in 6 languages is my ultimate goal </li>
+  <li>Listening and dance to 🎵🎧 is the reason why I love to work at home</li>
+  <li>I love 🐘 and 🐨 cause they are cute</li>
+  <li>🍟 was my first love, 🍣 my second and 🍝 the thrid one</li>
+</ul>
   
 <br>
 
