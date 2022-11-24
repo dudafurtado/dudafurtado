@@ -38,15 +38,15 @@
 <br>
 
 <p align="left"> 
-  I am a <em>young</em>, <em>curious</em>, <em>funny</em> and <em>brave</em> girl but you can just use the word <strong>Duda</strong> to call me. 🤟🌹
+  I am a <em>young</em> 👧, <em>curious</em> 👀, <em>funny</em> 😅 and <em>brave</em> 😎 girl but you can just use the word <strong>Duda</strong> 🌹 to call me. 🤟
 
-  I am <em>19 years old</em> and I was born in a city called <em>Salvador</em> of a big country known for the name <strong>Brazil</strong> 🇧🇷, but  <strong>do not</strong> expect to find me <em>forever</em> here. The <strong>english</strong> and other languages that I am constantly <em>falling in love</em> have been make me understand more about the <strong>world</strong> 🌍 through the <em>black mirror</em> of my phone 📱. 
+  I am <em>19 years old</em> ❤️‍🔥 and I was born in a city called <em>Salvador</em> 🌅🏖️ of a big country known for the name <strong>Brazil</strong> 🇧🇷, but  <strong>do not</strong> expect to find me <em>forever</em> here 👣🎒. The <strong>english</strong> and other languages that I am constantly <em>falling in love</em> 💘 have been make me understand more about the <strong>world</strong> 🌍 through the <em>black mirror</em> 📱 of my phone. 
   
-  All the types of <em>food</em>, <em>party</em>, <em>people</em> 🏝️ that a can <strong>meet</strong> and <strong>experience</strong> 🗽 feel <em>thrilling</em> in my stomach 🏯. There are so much that my 5 senses can be pushed to that <strong>stay</strong> at the same place forever just <strong>do not</strong> makes sense. ⛩️🗼
+  All the types of <em>food</em>🍲, <em>party</em> 🥳, <em>people</em> 🫂 that a can <strong>meet</strong> and <strong>experience</strong> feel <em>thrilling</em> in my stomach 🏯. There are so much that my 5 senses 🚣🎆🛸✈️🚄 can be pushed to that <strong>stay</strong> 🗽 at the same place ⛩️🗼 forever just <strong>do not</strong> 🧳🎒 makes sense. 
 
-  On this <em></em> social media you can see more about how my brain is <strong>developing applications</strong> with code.
+  On this <em>social media</em> 💭 you can see more about how my brain 🧠 is <strong>developing applications</strong> with code 👩‍🏫. I code at the company @Weedo.it where a <em>work</em> as a <strong>trainee back-end software developer</strong>👩‍💻, I do a <em>volunteer work</em> 👩‍💼 at @Lacrei as a <strong>front-end developer</strong> and will be <em>graduating</em>🎓 at <strong>computer engineer</strong> 👩‍🎓 at 2027.
   
-  2020 <strong></strong> was the year that make me know <em>kpop</em>, <em>code</em> 🤖 and made be <em>ambitious</em> 💸 about the future that I am step by step creating. Some of the computers languages that a have interest or some skill at will be list along of this introduction so <em>nice to meet you</em>. I hope that you have a <strong>quality time</strong> at this profile.
+  <strong>2020</strong> 🎱 was the year that make me know <em>kpop</em> 🇰🇷, <em>code</em> 🤖 and made be <em>ambitious</em> 💸 about the future that I am step by step creating ♟️. Some of the computers languages that a have interest or some skill at 🎬 will be list along of this introduction so <em>nice to meet you</em> 🥰🎮. I hope that you have a <strong>quality time</strong> 🍩 at this profile 🏁.
 </p>
 
 <br>
