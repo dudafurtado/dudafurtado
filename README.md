@@ -38,13 +38,13 @@
 <br>
 
 <p align="left"> 
-  I am a <em>young</em> 👧, <em>curious</em> 👀, <em>funny</em> 😅 and <em>brave</em> 😎 girl but you can just use the word <strong>Duda</strong> 🌹 to call me. 🤟
+  I am a <em>young</em> 👧, <em>curious</em> 👀, <em>funny</em> 😅 and <em>brave</em> 😎 girl and you can just use the word <strong>Duda</strong> 🌹 to call me. 🤟
 
   I am <em>19 years old</em> ❤️‍🔥 and I was born in a city called <em>Salvador</em> 🌅🏖️ of a big country known for the name <strong>Brazil</strong> 🇧🇷, but  <strong>do not</strong> expect to find me <em>forever</em> here 👣🎒. The <strong>english</strong> and other languages that I am constantly <em>falling in love</em> 💘 have been make me understand more about the <strong>world</strong> 🌍 through the <em>black mirror</em> 📱 of my phone. 
   
   All the types of <em>food</em>🍲, <em>party</em> 🥳, <em>people</em> 🫂 that a can <strong>meet</strong> and <strong>experience</strong> feel <em>thrilling</em> in my stomach 🏯. There are so much that my 5 senses 🚣🎆🛸✈️🚄 can be pushed to that <strong>stay</strong> 🗽 at the same place ⛩️🗼 forever just <strong>do not</strong> 🧳🎒 makes sense. 
 
-  On this <em>social media</em> 💭 you can see more about how my brain 🧠 is <strong>developing applications</strong> with code 👩‍🏫. I code at the company @Weedo.it where a <em>work</em> as a <strong>trainee back-end software developer</strong>👩‍💻, I do a <em>volunteer work</em> 👩‍💼 at @Lacrei as a <strong>front-end developer</strong> and will be <em>graduating</em>🎓 at <strong>computer engineer</strong> 👩‍🎓 at 2027.
+  On this <em>social media</em> 💭 you can see more about how my brain 🧠 is <strong>developing applications</strong> with code 👩‍🏫. I code at the company @Weedo.it where a <em>work</em> as a <strong>trainee back-end software developer</strong>👩‍💻, at night I have been <em>monitoring</em> 👩‍💼 students at @Cubos Academy as a <strong>full-stack developer</strong> and I am a <em>graduating</em>🎓 student at <strong>computer engineer</strong> 👩‍🎓.
   
   <strong>2020</strong> 🎱 was the year that make me know <em>kpop</em> 🇰🇷, <em>code</em> 🤖 and made be <em>ambitious</em> 💸 about the future that I am step by step creating ♟️. Some of the computers languages that a have interest or some skill at 🎬 will be list along of this introduction so <em>nice to meet you</em> 🥰🎮. I hope that you have a <strong>quality time</strong> 🍩 at this profile 🏁.
 </p>
@@ -60,17 +60,17 @@
   
 These are the tecnologys that I am currently styding at the moment:
 
-<img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 
-<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> <img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />  
+<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />  
 
 <br>
 
 These are the ones I am curiosos about:
 
-<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 <br>
 
@@ -116,10 +116,4 @@ These are the ones I am curiosos about:
   
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dudafurtado&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
-  
-  <br>
-  
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dudafurtado&theme=merko&hide_border=true"/>
 </div>
