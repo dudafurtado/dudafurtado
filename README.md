@@ -63,7 +63,7 @@ On this social media 💭 you can see more about how my brain 🧠 is developing
 <br>
 
 <div align="center">
-  <img src='https://i.pinimg.com/originals/f8/b0/23/f8b02356a5c990ab8501fecabd21cab9.gif'>
+  <img src='https://qph.cf2.quoracdn.net/main-qimg-2a9b3e27471528f19a4836013c914225'>
 </div>
 
 <br>
